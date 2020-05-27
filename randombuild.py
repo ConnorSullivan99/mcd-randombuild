@@ -28,3 +28,5 @@ for char in b:
 
 print("Your final build is: " + weaponchoice + ", " + armourchoice + ", " +
       rangedchoice + ", " + a)
+
+input("Press ENTER to close program...")
